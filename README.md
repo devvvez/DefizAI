@@ -16,16 +16,16 @@ It is built with simplicity as its core principle.
 
 ## Features
 
-> Extremely lightweight
-> No external dependencies
-> Runs locally
-> Fast startup time
-> Minimal resource usage
+- Extremely lightweight
+- No external dependencies
+- Runs locally
+- Fast startup time
+- Minimal resource usage
 
 ## Requirements
 
-> Python 3.x
-> computer (preferably)
+- Python 3.x
+- computer (preferably)
 
 ## Installation
 
